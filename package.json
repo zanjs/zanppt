@@ -1,0 +1,43 @@
+{
+  "name": "zanppt",
+  "jsname": "zanppt",
+  "description": "ppt",
+  "version": "0.0.1",
+  "site": "https://github.com/zanjs/zanppt",
+  "author": {
+    "name": "zan",
+    "email": "youyadaojia@gmail.com"
+  },
+  "bin": {
+    "zanppt": "bin/zanppt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zanjs/zanppt"
+  },
+  "dependencies": {
+    "colors": ">=0.6.0-1",
+    "commander": "2.9.0",
+    "connect": "2.11.0",
+    "cookie": ">=0.1.0",
+    "ejs": "0.8.4",
+    "ipv4": "0.0.4",
+    "read": ">=1.0.4",
+    "socket.io": "1.3.3",
+    "chokidar": "1.0.0-rc3",
+    "mathjax": "2.5.1"
+  },
+  "keywords": [
+    "presentation",
+    "powerpoint",
+    "slideshow",
+    "keynote",
+    "ppt",
+    "slide",
+    "revealjs",
+    "impressjs",
+    "markdown"
+  ],
+  "readmeFilename": "README_EN.md",
+  "license": "SEE LICENSE IN MIT-LICENSE.txt"
+}

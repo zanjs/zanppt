@@ -1,0 +1,7 @@
+{
+    "url": "http://zanjs.com",
+    "speaker": "zanppt demo",
+    "assetsDir": "./assets",
+    "pptDir": "./ppts",
+    "port": 8080
+}
